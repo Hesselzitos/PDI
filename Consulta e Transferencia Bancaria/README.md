@@ -22,3 +22,10 @@ Criar api de Consulta e transferencia bancaria
 5. Testes unitarios e automatizados
 6. Explorar desing patterns
 7. Implementar padroes de resiliencia
+
+## Projetos
+1. [Servico Cadastro](https://github.com/Hesselzitos/T-cadastro-api.git)
+2. [Servico Contas](https://github.com/Hesselzitos/CSTB/tree/Feature/MeuQoelhoMQ)
+3. [Mensageria](https://github.com/Hesselzitos/MeuQoelhoMQ)
+4. [Servico notificacao BACEN](https://github.com/Hesselzitos/notifica-transacao-BACEN.git)
+5. BACEN
