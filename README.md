@@ -24,6 +24,7 @@ https://d1.awsstatic.com/pt_BR/training-and-certification/docs-dev-associate/AWS
   - Springboot
     - Spring Boot Web
     - Spring JPA
+- GO
 - Desing patterns
 - AWS (cruzar pocs, melhorias para squad e habilidades requeridas para certificacao)
 - Docker
