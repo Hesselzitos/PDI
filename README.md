@@ -31,7 +31,7 @@ https://d1.awsstatic.com/pt_BR/training-and-certification/docs-dev-associate/AWS
 - Terraform
 - StackspotAI
 - Expectativa de mercado
-- Resilience4]
+- Resilience4
 - Rate limit
 - Circuit break na aplicacao
 - Retry com exponicial backoff e alg de jitter
