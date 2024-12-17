@@ -1,7 +1,7 @@
 # PDI
 
 ## Onde eu quero chegar?
-- Promovido a senior em 2024
+- Promovido a senior em 2025
 - Certificacao AWS: dificuldade em cruzar conteudo da prova com tema estudado, exemplo RDS, quais topicos? Tudo?
 https://d1.awsstatic.com/pt_BR/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate__Exam-Guide.pdf
 
